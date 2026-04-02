@@ -1,0 +1,2 @@
+aaa,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
+cz,http://yp.qqqtv.top/1/api.php?id=%E6%BD%AE%E5%B7%9E%E7%BB%BC%E5%90%88&auth=666858
