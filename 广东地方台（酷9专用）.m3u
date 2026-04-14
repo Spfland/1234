@@ -1,0 +1,241 @@
+#EXTM3U x-tvg-url="https://epg.zbds.top"
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕头综合" tvg-logo="https://livecdn.zbds.org/logo/汕头综合.png" epg-url="https://epg.zbds.top",汕头综合
+rtp://239.21.0.101:3744
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕头经济生活" tvg-logo="https://livecdn.zbds.org/logo/汕头经济生活.png" epg-url="https://epg.zbds.top",汕头经济生活
+rtp://239.21.0.102:3748
+#EXTINF:-1 group-title="广东地方台" tvg-name="潮州民生" tvg-logo="https://livecdn.zbds.org/logo/潮州民生.png" epg-url="https://epg.zbds.top",潮州民生
+rtp://239.21.0.146:3928
+#EXTINF:-1 group-title="广东地方台" tvg-name="潮州综合" tvg-logo="https://livecdn.zbds.org/logo/潮州综合.png" epg-url="https://epg.zbds.top",潮州综合
+rtp://239.21.0.145:3924
+#EXTINF:-1 group-title="广东地方台" tvg-name="揭阳生活" tvg-logo="https://livecdn.zbds.org/logo/揭阳生活.png" epg-url="https://epg.zbds.top",揭阳生活
+rtp://239.21.0.92:3708
+#EXTINF:-1 group-title="广东地方台" tvg-name="揭阳综合" tvg-logo="https://livecdn.zbds.org/logo/揭阳综合.png" epg-url="https://epg.zbds.top",揭阳综合
+rtp://239.21.0.91:3704
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕尾新闻综合" tvg-logo="https://livecdn.zbds.org/logo/汕尾新闻综合.png" epg-url="https://epg.zbds.top",汕尾新闻综合
+rtp://239.21.0.89:3696
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕尾文化生活" tvg-logo="https://livecdn.zbds.org/logo/汕尾文化生活.png" epg-url="https://epg.zbds.top",汕尾文化生活
+rtp://239.21.0.90:3700
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东珠江" tvg-logo="https://livecdn.zbds.org/logo/广东珠江.png" epg-url="https://epg.zbds.top",广东珠江
+rtp://239.20.0.63:3148
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东珠江" tvg-logo="https://livecdn.zbds.org/logo/广东珠江.png" epg-url="https://epg.zbds.top",广东珠江
+rtp://239.20.0.64:3144
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东新闻" tvg-logo="https://livecdn.zbds.org/logo/广东新闻.png" epg-url="https://epg.zbds.top",广东新闻
+rtp://239.10.0.199:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东民生" tvg-logo="https://livecdn.zbds.org/logo/广东民生.png" epg-url="https://epg.zbds.top",广东民生
+rtp://239.21.0.86:3684
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东体育" tvg-logo="https://livecdn.zbds.org/logo/广东体育.png" epg-url="https://epg.zbds.top",广东体育
+rtp://239.20.0.103:2004
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东影视" tvg-logo="https://livecdn.zbds.org/logo/广东影视.png" epg-url="https://epg.zbds.top",广东影视
+rtp://239.21.0.85:3680
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东少儿" tvg-logo="https://livecdn.zbds.org/logo/广东少儿.png" epg-url="https://epg.zbds.top",广东少儿
+rtp://239.21.0.87:3688
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东经济科教" tvg-logo="https://livecdn.zbds.org/logo/广东经济科教.png" epg-url="https://epg.zbds.top",广东经济科教
+rtp://239.10.0.112:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="大湾区卫视" tvg-logo="https://livecdn.zbds.org/logo/大湾区卫视.png" epg-url="https://epg.zbds.top",大湾区卫视
+rtp://239.21.0.84:3676
+#EXTINF:-1 group-title="广东地方台" tvg-name="嘉佳卡通" tvg-logo="https://livecdn.zbds.org/logo/嘉佳卡通.png" epg-url="https://epg.zbds.top",嘉佳卡通
+rtp://239.21.0.94:3716
+#EXTINF:-1 group-title="广东地方台" tvg-name="岭南戏曲" tvg-logo="https://livecdn.zbds.org/logo/岭南戏曲.png" epg-url="https://epg.zbds.top",岭南戏曲
+rtp://239.21.0.147:3932
+#EXTINF:-1 group-title="广东地方台" tvg-name="现代教育" tvg-logo="https://livecdn.zbds.org/logo/现代教育.png" epg-url="https://epg.zbds.top",现代教育
+rtp://239.21.0.148:3936
+#EXTINF:-1 group-title="广东地方台" tvg-name="韶关新闻综合" tvg-logo="https://livecdn.zbds.org/logo/韶关新闻综合.png" epg-url="https://epg.zbds.top",韶关新闻综合
+rtp://239.11.0.84:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="韶关公共" tvg-logo="https://livecdn.zbds.org/logo/韶关公共.png" epg-url="https://epg.zbds.top",韶关公共
+rtp://239.11.0.85:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="湛江新闻综合" tvg-logo="https://livecdn.zbds.org/logo/湛江新闻综合.png" epg-url="https://epg.zbds.top",湛江新闻综合
+rtp://239.10.0.253:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="湛江公共" tvg-logo="https://livecdn.zbds.org/logo/湛江公共.png" epg-url="https://epg.zbds.top",湛江公共
+rtp://239.10.0.254:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="江门综合" tvg-logo="https://livecdn.zbds.org/logo/江门综合.png" epg-url="https://epg.zbds.top",江门综合
+rtp://239.10.0.219:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="江门侨乡生活" tvg-logo="https://livecdn.zbds.org/logo/江门侨乡生活.png" epg-url="https://epg.zbds.top",江门侨乡生活
+rtp://239.10.0.139:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="HZTV-1" tvg-logo="https://livecdn.zbds.org/logo/HZTV-1.png" epg-url="https://epg.zbds.top",HZTV-1
+rtp://239.21.0.27:3448
+#EXTINF:-1 group-title="广东地方台" tvg-name="HZTV-2" tvg-logo="https://livecdn.zbds.org/logo/HZTV-2.png" epg-url="https://epg.zbds.top",HZTV-2
+rtp://239.21.0.28:3452
+#EXTINF:-1 group-title="广东地方台" tvg-name="珠海-1" tvg-logo="https://livecdn.zbds.org/logo/珠海-1.png" epg-url="https://epg.zbds.top",珠海-1
+rtp://239.10.0.242:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="肇庆综合" tvg-logo="https://livecdn.zbds.org/logo/肇庆综合.png" epg-url="https://epg.zbds.top",肇庆综合
+rtp://239.11.0.53:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="肇庆生活服务" tvg-logo="https://livecdn.zbds.org/logo/肇庆生活服务.png" epg-url="https://epg.zbds.top",肇庆生活服务
+rtp://239.11.0.54:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="河源综合" tvg-logo="https://livecdn.zbds.org/logo/河源综合.png" epg-url="https://epg.zbds.top",河源综合
+rtp://239.21.0.48:3532
+#EXTINF:-1 group-title="广东地方台" tvg-name="河源公共" tvg-logo="https://livecdn.zbds.org/logo/河源公共.png" epg-url="https://epg.zbds.top",河源公共
+rtp://239.21.0.49:3536
+#EXTINF:-1 group-title="广东地方台" tvg-name="清远新闻综合" tvg-logo="https://livecdn.zbds.org/logo/清远新闻综合.png" epg-url="https://epg.zbds.top",清远新闻综合
+rtp://239.11.0.74:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="清远文旅生活" tvg-logo="https://livecdn.zbds.org/logo/清远文旅生活.png" epg-url="https://epg.zbds.top",清远文旅生活
+rtp://239.11.0.75:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="云浮综合" tvg-logo="https://livecdn.zbds.org/logo/云浮综合.png" epg-url="https://epg.zbds.top",云浮综合
+rtp://239.11.0.96:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="云浮文旅" tvg-logo="https://livecdn.zbds.org/logo/云浮文旅.png" epg-url="https://epg.zbds.top",云浮文旅
+rtp://239.11.0.97:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="茂名综合" tvg-logo="https://livecdn.zbds.org/logo/茂名综合.png" epg-url="https://epg.zbds.top",茂名综合
+rtp://239.10.0.238:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="茂名公共" tvg-logo="https://livecdn.zbds.org/logo/茂名公共.png" epg-url="https://epg.zbds.top",茂名公共
+rtp://239.11.0.99:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="东莞新闻综合" tvg-logo="https://livecdn.zbds.org/logo/东莞新闻综合.png" epg-url="https://epg.zbds.top",东莞新闻综合
+rtp://239.21.0.137:3892
+#EXTINF:-1 group-title="广东地方台" tvg-name="东莞生活资讯" tvg-logo="https://livecdn.zbds.org/logo/东莞生活资讯.png" epg-url="https://epg.zbds.top",东莞生活资讯
+rtp://239.21.0.138:3896
+#EXTINF:-1 group-title="广东地方台" tvg-name="中山综合" tvg-logo="https://livecdn.zbds.org/logo/中山综合.png" epg-url="https://epg.zbds.top",中山综合
+rtp://239.11.0.122:1025
+#EXTINF:-1 group-title="广东地方台" tvg-name="梅州综合" tvg-logo="https://livecdn.zbds.org/logo/梅州综合.png" epg-url="https://epg.zbds.top",梅州综合
+rtp://239.21.0.149:3940
+#EXTINF:-1 group-title="广东地方台" tvg-name="客家生活" tvg-logo="https://livecdn.zbds.org/logo/客家生活.png" epg-url="https://epg.zbds.top",客家生活
+rtp://239.21.0.150:3944
+#EXTINF:-1 group-title="广东地方台" tvg-name="求索记录" tvg-logo="https://livecdn.zbds.org/logo/求索记录.png" epg-url="https://epg.zbds.top",求索记录
+rtp://239.21.0.118:3816
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳都市" tvg-logo="https://livecdn.zbds.org/logo/深圳都市.png" epg-url="https://epg.zbds.top",深圳都市
+http://111.221.137.234:44330/tsfile/live/1014_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳都市" tvg-logo="https://livecdn.zbds.org/logo/深圳都市.png" epg-url="https://epg.zbds.top",深圳都市
+http://nn.7x9d.cn/深圳最新.php?id=szds
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳电视剧" tvg-logo="https://livecdn.zbds.org/logo/深圳电视剧.png" epg-url="https://epg.zbds.top",深圳电视剧
+http://nn.7x9d.cn/深圳最新.php?id=szdsj
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳少儿" tvg-logo="https://livecdn.zbds.org/logo/深圳少儿.png" epg-url="https://epg.zbds.top",深圳少儿
+http://nn.7x9d.cn/深圳最新.php?id=szse
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳移动" tvg-logo="https://livecdn.zbds.org/logo/深圳移动.png" epg-url="https://epg.zbds.top",深圳移动
+http://nn.7x9d.cn/深圳最新.php?id=szyd
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳国际" tvg-logo="https://livecdn.zbds.org/logo/深圳国际.png" epg-url="https://epg.zbds.top",深圳国际
+http://nn.7x9d.cn/深圳最新.php?id=szgj
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕头综合" tvg-logo="https://livecdn.zbds.org/logo/汕头综合.png" epg-url="https://epg.zbds.top",汕头综合
+http://192.168.1.7:51602/sttv.php?id=st1
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕头经济生活" tvg-logo="https://livecdn.zbds.org/logo/汕头经济生活.png" epg-url="https://epg.zbds.top",汕头经济生活
+http://192.168.1.7:51602/sttv.php?id=st2
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕头综合" tvg-logo="https://livecdn.zbds.org/logo/汕头综合.png" epg-url="https://epg.zbds.top",汕头综合
+http://pr.19760929.xyz:9688/rtp/239.253.43.45:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕头经济生活" tvg-logo="https://livecdn.zbds.org/logo/汕头经济生活.png" epg-url="https://epg.zbds.top",汕头经济生活
+http://pr.19760929.xyz:9688/rtp/239.253.43.46:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕头综合" tvg-logo="https://livecdn.zbds.org/logo/汕头综合.png" epg-url="https://epg.zbds.top",汕头综合
+http://iptv.cqshushu.com/gddf.php?id=stzh&token=a396a43fc8deaf8bd198b09029a16207
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕头经济生活" tvg-logo="https://livecdn.zbds.org/logo/汕头经济生活.png" epg-url="https://epg.zbds.top",汕头经济生活
+http://iptv.cqshushu.com/gddf.php?id=stsh&token=a396a43fc8deaf8bd198b09029a16207
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕头综合" tvg-logo="https://livecdn.zbds.org/logo/汕头综合.png" epg-url="https://epg.zbds.top",汕头综合
+http://pr.19760929.xyz:9688/rtp/239.253.43.45:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕头经济生活" tvg-logo="https://livecdn.zbds.org/logo/汕头经济生活.png" epg-url="https://epg.zbds.top",汕头经济生活
+http://pr.19760929.xyz:9688/rtp/239.253.43.46:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="潮州综合" tvg-logo="https://livecdn.zbds.org/logo/潮州综合.png" epg-url="https://epg.zbds.top",潮州综合
+http://pr.19760929.xyz:9688/rtp/239.253.43.70:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="潮州民生" tvg-logo="https://livecdn.zbds.org/logo/潮州民生.png" epg-url="https://epg.zbds.top",潮州民生
+http://pr.19760929.xyz:9688/rtp/239.253.43.75:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="揭阳综合" tvg-logo="https://livecdn.zbds.org/logo/揭阳综合.png" epg-url="https://epg.zbds.top",揭阳综合
+http://pr.19760929.xyz:9688/rtp/239.77.0.229:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="揭阳生活" tvg-logo="https://livecdn.zbds.org/logo/揭阳生活.png" epg-url="https://epg.zbds.top",揭阳生活
+http://pr.19760929.xyz:9688/rtp/239.77.0.251:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕尾新闻综合" tvg-logo="https://livecdn.zbds.org/logo/汕尾新闻综合.png" epg-url="https://epg.zbds.top",汕尾新闻综合
+http://pr.19760929.xyz:9688/rtp/239.77.0.25:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="汕尾文化生活" tvg-logo="https://livecdn.zbds.org/logo/汕尾文化生活.png" epg-url="https://epg.zbds.top",汕尾文化生活
+http://pr.19760929.xyz:9688/rtp/239.77.0.187:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东珠江" tvg-logo="https://livecdn.zbds.org/logo/广东珠江.png" epg-url="https://epg.zbds.top",广东珠江
+http://pr.19760929.xyz:9688/rtp/239.77.0.114:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东新闻" tvg-logo="https://livecdn.zbds.org/logo/广东新闻.png" epg-url="https://epg.zbds.top",广东新闻
+http://pr.19760929.xyz:9688/rtp/239.77.0.173:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东民生" tvg-logo="https://livecdn.zbds.org/logo/广东民生.png" epg-url="https://epg.zbds.top",广东民生
+http://pr.19760929.xyz:9688/rtp/239.77.0.225:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东体育" tvg-logo="https://livecdn.zbds.org/logo/广东体育.png" epg-url="https://epg.zbds.top",广东体育
+http://pr.19760929.xyz:9688/rtp/239.77.0.168:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东影视" tvg-logo="https://livecdn.zbds.org/logo/广东影视.png" epg-url="https://epg.zbds.top",广东影视
+http://pr.19760929.xyz:9688/rtp/239.77.0.217:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东少儿" tvg-logo="https://livecdn.zbds.org/logo/广东少儿.png" epg-url="https://epg.zbds.top",广东少儿
+http://pr.19760929.xyz:9688/rtp/239.77.0.250:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="广东经济科教" tvg-logo="https://livecdn.zbds.org/logo/广东经济科教.png" epg-url="https://epg.zbds.top",广东经济科教
+http://pr.19760929.xyz:9688/rtp/239.77.0.167:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="大湾区卫视" tvg-logo="https://livecdn.zbds.org/logo/大湾区卫视.png" epg-url="https://epg.zbds.top",大湾区卫视
+http://pr.19760929.xyz:9688/rtp/239.77.0.215:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="嘉佳卡通" tvg-logo="https://livecdn.zbds.org/logo/嘉佳卡通.png" epg-url="https://epg.zbds.top",嘉佳卡通
+http://pr.19760929.xyz:9688/rtp/239.77.0.179:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="岭南戏曲" tvg-logo="https://livecdn.zbds.org/logo/岭南戏曲.png" epg-url="https://epg.zbds.top",岭南戏曲
+http://pr.19760929.xyz:9688/rtp/239.77.0.122:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="现代教育" tvg-logo="https://livecdn.zbds.org/logo/现代教育.png" epg-url="https://epg.zbds.top",现代教育
+http://pr.19760929.xyz:9688/rtp/239.77.0.213:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="广州综合" tvg-logo="https://livecdn.zbds.org/logo/广州综合.png" epg-url="https://epg.zbds.top",广州综合
+http://pr.19760929.xyz:9688/rtp/239.253.43.71:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="广州新闻" tvg-logo="https://livecdn.zbds.org/logo/广州新闻.png" epg-url="https://epg.zbds.top",广州新闻
+http://pr.19760929.xyz:9688/rtp/239.253.43.72:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="广州影视" tvg-logo="https://livecdn.zbds.org/logo/广州影视.png" epg-url="https://epg.zbds.top",广州影视
+http://pr.19760929.xyz:9688/rtp/239.253.43.73:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="广州法治" tvg-logo="https://livecdn.zbds.org/logo/广州法治.png" epg-url="https://epg.zbds.top",广州法治
+http://pr.19760929.xyz:9688/rtp/239.253.43.74:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳都市" tvg-logo="https://livecdn.zbds.org/logo/深圳都市.png" epg-url="https://epg.zbds.top",深圳都市
+http://pr.19760929.xyz:9688/rtp/239.77.1.124:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳电视剧" tvg-logo="https://livecdn.zbds.org/logo/深圳电视剧.png" epg-url="https://epg.zbds.top",深圳电视剧
+http://pr.19760929.xyz:9688/rtp/239.77.1.125:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳财经生活" tvg-logo="https://livecdn.zbds.org/logo/深圳财经生活.png" epg-url="https://epg.zbds.top",深圳财经生活
+http://pr.19760929.xyz:9688/rtp/239.77.1.242:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳体育健康" tvg-logo="https://livecdn.zbds.org/logo/深圳体育健康.png" epg-url="https://epg.zbds.top",深圳体育健康
+http://pr.19760929.xyz:9688/rtp/239.77.1.140:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳少儿" tvg-logo="https://livecdn.zbds.org/logo/深圳少儿.png" epg-url="https://epg.zbds.top",深圳少儿
+http://pr.19760929.xyz:9688/rtp/239.77.1.244:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳宝安" tvg-logo="https://livecdn.zbds.org/logo/深圳宝安.png" epg-url="https://epg.zbds.top",深圳宝安
+http://pr.19760929.xyz:9688/rtp/239.77.1.67:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳龙岗" tvg-logo="https://livecdn.zbds.org/logo/深圳龙岗.png" epg-url="https://epg.zbds.top",深圳龙岗
+http://pr.19760929.xyz:9688/rtp/239.77.1.223:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="深圳众创TV" tvg-logo="https://livecdn.zbds.org/logo/深圳众创TV.png" epg-url="https://epg.zbds.top",深圳众创TV
+http://pr.19760929.xyz:9688/rtp/239.77.1.247:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="韶关新闻综合" tvg-logo="https://livecdn.zbds.org/logo/韶关新闻综合.png" epg-url="https://epg.zbds.top",韶关新闻综合
+http://pr.19760929.xyz:9688/rtp/239.77.0.117:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="湛江新闻综合" tvg-logo="https://livecdn.zbds.org/logo/湛江新闻综合.png" epg-url="https://epg.zbds.top",湛江新闻综合
+http://pr.19760929.xyz:9688/rtp/239.77.0.141:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="湛江公共" tvg-logo="https://livecdn.zbds.org/logo/湛江公共.png" epg-url="https://epg.zbds.top",湛江公共
+http://pr.19760929.xyz:9688/rtp/239.77.0.140:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="江门综合" tvg-logo="https://livecdn.zbds.org/logo/江门综合.png" epg-url="https://epg.zbds.top",江门综合
+http://pr.19760929.xyz:9688/rtp/239.77.0.201:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="江门侨乡生活" tvg-logo="https://livecdn.zbds.org/logo/江门侨乡生活.png" epg-url="https://epg.zbds.top",江门侨乡生活
+http://pr.19760929.xyz:9688/rtp/239.77.0.202:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="HZTV-1" tvg-logo="https://livecdn.zbds.org/logo/HZTV-1.png" epg-url="https://epg.zbds.top",HZTV-1
+http://pr.19760929.xyz:9688/rtp/239.77.1.232:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="HZTV-2" tvg-logo="https://livecdn.zbds.org/logo/HZTV-2.png" epg-url="https://epg.zbds.top",HZTV-2
+http://pr.19760929.xyz:9688/rtp/239.77.1.233:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="珠海-1" tvg-logo="https://livecdn.zbds.org/logo/珠海-1.png" epg-url="https://epg.zbds.top",珠海-1
+http://pr.19760929.xyz:9688/rtp/239.77.0.155:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="肇庆综合" tvg-logo="https://livecdn.zbds.org/logo/肇庆综合.png" epg-url="https://epg.zbds.top",肇庆综合
+http://pr.19760929.xyz:9688/rtp/239.253.43.1:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="肇庆生活服务" tvg-logo="https://livecdn.zbds.org/logo/肇庆生活服务.png" epg-url="https://epg.zbds.top",肇庆生活服务
+http://pr.19760929.xyz:9688/rtp/239.253.43.2:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="河源综合" tvg-logo="https://livecdn.zbds.org/logo/河源综合.png" epg-url="https://epg.zbds.top",河源综合
+http://pr.19760929.xyz:9688/rtp/239.253.43.213:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="河源公共" tvg-logo="https://livecdn.zbds.org/logo/河源公共.png" epg-url="https://epg.zbds.top",河源公共
+http://pr.19760929.xyz:9688/rtp/239.253.43.214:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="清远新闻综合" tvg-logo="https://livecdn.zbds.org/logo/清远新闻综合.png" epg-url="https://epg.zbds.top",清远新闻综合
+http://pr.19760929.xyz:9688/rtp/239.253.43.33:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="清远文旅生活" tvg-logo="https://livecdn.zbds.org/logo/清远文旅生活.png" epg-url="https://epg.zbds.top",清远文旅生活
+http://pr.19760929.xyz:9688/rtp/239.253.43.34:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="云浮综合" tvg-logo="https://livecdn.zbds.org/logo/云浮综合.png" epg-url="https://epg.zbds.top",云浮综合
+http://pr.19760929.xyz:9688/rtp/239.77.0.253:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="云浮文旅" tvg-logo="https://livecdn.zbds.org/logo/云浮文旅.png" epg-url="https://epg.zbds.top",云浮文旅
+http://pr.19760929.xyz:9688/rtp/239.77.0.254:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="茂名综合" tvg-logo="https://livecdn.zbds.org/logo/茂名综合.png" epg-url="https://epg.zbds.top",茂名综合
+http://pr.19760929.xyz:9688/rtp/239.77.0.206:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="茂名公共" tvg-logo="https://livecdn.zbds.org/logo/茂名公共.png" epg-url="https://epg.zbds.top",茂名公共
+http://pr.19760929.xyz:9688/rtp/239.77.0.207:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="佛山公共" tvg-logo="https://livecdn.zbds.org/logo/佛山公共.png" epg-url="https://epg.zbds.top",佛山公共
+http://pr.19760929.xyz:9688/rtp/239.253.43.53:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="佛山南海" tvg-logo="https://livecdn.zbds.org/logo/佛山南海.png" epg-url="https://epg.zbds.top",佛山南海
+http://pr.19760929.xyz:9688/rtp/239.253.43.54:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="佛山顺德" tvg-logo="https://livecdn.zbds.org/logo/佛山顺德.png" epg-url="https://epg.zbds.top",佛山顺德
+http://pr.19760929.xyz:9688/rtp/239.253.43.55:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="佛山影视" tvg-logo="https://livecdn.zbds.org/logo/佛山影视.png" epg-url="https://epg.zbds.top",佛山影视
+http://pr.19760929.xyz:9688/rtp/239.253.43.56:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="佛山综合" tvg-logo="https://livecdn.zbds.org/logo/佛山综合.png" epg-url="https://epg.zbds.top",佛山综合
+http://pr.19760929.xyz:9688/rtp/239.253.43.57:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="东莞新闻综合" tvg-logo="https://livecdn.zbds.org/logo/东莞新闻综合.png" epg-url="https://epg.zbds.top",东莞新闻综合
+http://pr.19760929.xyz:9688/rtp/239.253.43.104:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="东莞生活资讯" tvg-logo="https://livecdn.zbds.org/logo/东莞生活资讯.png" epg-url="https://epg.zbds.top",东莞生活资讯
+http://pr.19760929.xyz:9688/rtp/239.253.43.105:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="中山综合" tvg-logo="https://livecdn.zbds.org/logo/中山综合.png" epg-url="https://epg.zbds.top",中山综合
+http://pr.19760929.xyz:9688/rtp/239.253.43.62:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="香山文化" tvg-logo="https://livecdn.zbds.org/logo/香山文化.png" epg-url="https://epg.zbds.top",香山文化
+http://pr.19760929.xyz:9688/rtp/239.253.43.63:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="梅州综合" tvg-logo="https://livecdn.zbds.org/logo/梅州综合.png" epg-url="https://epg.zbds.top",梅州综合
+http://pr.19760929.xyz:9688/rtp/239.253.43.123:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="客家生活" tvg-logo="https://livecdn.zbds.org/logo/客家生活.png" epg-url="https://epg.zbds.top",客家生活
+http://pr.19760929.xyz:9688/rtp/239.253.43.124:5146
+#EXTINF:-1 group-title="广东地方台" tvg-name="梅州综合" tvg-logo="https://livecdn.zbds.org/logo/梅州综合.png" epg-url="https://epg.zbds.top",梅州综合
+https://livepull.hellohakka.cn/live/ch_zonghe.m3u8
+#EXTINF:-1 group-title="广东地方台" tvg-name="客家生活" tvg-logo="https://livecdn.zbds.org/logo/客家生活.png" epg-url="https://epg.zbds.top",客家生活
+https://livepull.hellohakka.cn/live/ch_kejiashenghuo.m3u8
+#EXTINF:-1 group-title="广东地方台" tvg-name="南国都市" tvg-logo="https://livecdn.zbds.org/logo/南国都市.png" epg-url="https://epg.zbds.top",南国都市
+https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
